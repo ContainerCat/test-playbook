@@ -4,5 +4,3 @@
   tasks:
     - name: hello world
       shell: echo "Hello world"
-    - name: hello world with vault
-      shell: echo "{{}}"
